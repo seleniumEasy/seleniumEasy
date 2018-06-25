@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <parameter name="browser" value="chrome"/>
+  <test name="Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="test.inputform.Test_Input_Form">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeClass"/>
+          <include name="initApplication"/>
+          <include name="beforeMethod"/>
+          <include name="postCondition"/>
+        </methods>
+      </class> <!-- test.inputform.Test_Input_Form -->
+      <class name="test.inputform.CheckBoxTest">
+        <methods>
+          <include name="verifyCheckBoxFun"/>
+        </methods>
+      </class> <!-- test.inputform.CheckBoxTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

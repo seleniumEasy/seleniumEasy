@@ -1,0 +1,432 @@
+2018-06-22 23:13:45,106 - com.easySelenium.generic.Log -INFO - initializing ExtentReport
+2018-06-22 23:13:45,196 - com.easySelenium.generic.Log -INFO - Browser:chrome
+2018-06-22 23:13:48,026 - com.easySelenium.generic.Log -INFO - executing scripts on Chrome Browser
+2018-06-22 23:13:51,974 - com.easySelenium.generic.Log -INFO - TimeOut:1500
+2018-06-22 23:13:52,178 - com.easySelenium.generic.Log -INFO - TestCase - Test_Input_Form, started @ 2018-06-22 23:13:52.178  
+
+2018-06-22 23:13:52,178 - com.easySelenium.generic.Log -INFO - Description: This test case is to verify input text box.
+2018-06-22 23:13:57,202 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected :Hello actual Hello
+2018-06-22 23:13:57,433 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected: 20 actual: 20
+2018-06-22 23:13:57,436 - com.easySelenium.generic.Log -INFO - Passed: test_SimpleForm 
+This test case is to verify input text box
+2018-06-22 23:13:57,826 - com.easySelenium.generic.Log -INFO - test_SimpleForm is passed
+2018-06-22 23:13:58,090 - com.easySelenium.generic.Log -INFO - TestCase - CheckBoxTest, started @ 2018-06-22 23:13:58.090  
+
+2018-06-22 23:13:58,093 - com.easySelenium.generic.Log -INFO - Description: This test case is to verify check box functionality.
+2018-06-22 23:13:59,363 - com.easySelenium.generic.Log -INFO - Result of verifySingleCheckBox is [true, true]
+2018-06-22 23:14:00,019 - com.easySelenium.generic.Log -INFO - Result of multi Check is [true, true, true, true, true, true, true, true, true, true, true, true]
+2018-06-22 23:14:00,019 - com.easySelenium.generic.Log -INFO - PASS:verifyCheckBoxFun test case has passed true
+2018-06-22 23:14:00,409 - com.easySelenium.generic.Log -INFO - verifyCheckBoxFun is passed
+2018-06-22 23:22:09,121 - com.easySelenium.generic.Log -INFO - initializing ExtentReport
+2018-06-22 23:22:09,218 - com.easySelenium.generic.Log -INFO - Browser:chrome
+2018-06-22 23:22:11,900 - com.easySelenium.generic.Log -INFO - executing scripts on Chrome Browser
+2018-06-22 23:22:15,459 - com.easySelenium.generic.Log -INFO - TimeOut:1500
+2018-06-22 23:22:15,695 - com.easySelenium.generic.Log -INFO - TestCase - Test_Input_Form, started @ 2018-06-22 23:22:15.695  
+
+2018-06-22 23:22:15,695 - com.easySelenium.generic.Log -INFO - Description: This test case is to verify input text box.
+2018-06-22 23:22:21,575 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected :Hello actual Hello
+2018-06-22 23:22:21,793 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected: 20 actual: 20
+2018-06-22 23:22:21,793 - com.easySelenium.generic.Log -INFO - Passed: test_SimpleForm 
+This test case is to verify input text box
+2018-06-22 23:22:22,238 - com.easySelenium.generic.Log -INFO - test_SimpleForm is passed
+2018-06-22 23:22:22,518 - com.easySelenium.generic.Log -INFO - TestCase - CheckBoxTest, started @ 2018-06-22 23:22:22.518  
+
+2018-06-22 23:22:22,518 - com.easySelenium.generic.Log -INFO - Description: This test case is to verify check box functionality.
+2018-06-22 23:22:23,158 - com.easySelenium.generic.Log -INFO - Result of verifySingleCheckBox is [true, true]
+2018-06-22 23:22:23,821 - com.easySelenium.generic.Log -INFO - Result of multi Check is [true, true, true, true, true, true, true, true, true, true, true, true]
+2018-06-22 23:22:23,821 - com.easySelenium.generic.Log -INFO - PASS:verifyCheckBoxFun test case has passed true
+2018-06-22 23:22:24,216 - com.easySelenium.generic.Log -INFO - verifyCheckBoxFun is passed
+2018-06-22 23:25:31,835 - com.easySelenium.generic.Log -INFO - initializing ExtentReport
+2018-06-22 23:25:31,931 - com.easySelenium.generic.Log -INFO - Browser:chrome
+2018-06-22 23:25:34,653 - com.easySelenium.generic.Log -INFO - executing scripts on Chrome Browser
+2018-06-22 23:25:37,319 - com.easySelenium.generic.Log -INFO - TimeOut:1500
+2018-06-22 23:25:37,439 - com.easySelenium.generic.Log -INFO - TestCase - Test_Input_Form, started @ 2018-06-22 23:25:37.438  
+
+2018-06-22 23:25:37,439 - com.easySelenium.generic.Log -INFO - Description: This test case is to verify input text box.
+2018-06-22 23:25:41,733 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected :Hello actual Hello
+2018-06-22 23:25:41,950 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected: 20 actual: 20
+2018-06-22 23:25:41,950 - com.easySelenium.generic.Log -INFO - Passed: test_SimpleForm 
+This test case is to verify input text box
+2018-06-22 23:25:42,381 - com.easySelenium.generic.Log -INFO - test_SimpleForm is passed
+2018-06-22 23:25:42,382 - com.easySelenium.generic.Log -INFO - TestCase - Test_Input_Form, Completed @ 2018-06-22 23:25:42.382  
+
+2018-06-22 23:25:42,640 - com.easySelenium.generic.Log -INFO - TestCase - CheckBoxTest, started @ 2018-06-22 23:25:42.640  
+
+2018-06-22 23:25:42,641 - com.easySelenium.generic.Log -INFO - Description: This test case is to verify check box functionality.
+2018-06-22 23:25:43,251 - com.easySelenium.generic.Log -INFO - Result of verifySingleCheckBox is [true, true]
+2018-06-22 23:25:43,844 - com.easySelenium.generic.Log -INFO - Result of multi Check is [true, true, true, true, true, true, true, true, true, true, true, true]
+2018-06-22 23:25:43,844 - com.easySelenium.generic.Log -INFO - PASS:verifyCheckBoxFun test case has passed true
+2018-06-22 23:25:44,180 - com.easySelenium.generic.Log -INFO - verifyCheckBoxFun is passed
+2018-06-22 23:25:44,181 - com.easySelenium.generic.Log -INFO - TestCase - CheckBoxTest, Completed @ 2018-06-22 23:25:44.181  
+
+2018-06-23 19:36:04,579 - com.easySelenium.generic.Log -INFO - initializing ExtentReport
+2018-06-23 19:36:08,338 - com.easySelenium.generic.Log -INFO - Browser:chrome
+2018-06-23 19:36:17,833 - com.easySelenium.generic.Log -INFO - executing scripts on Chrome Browser
+2018-06-23 19:36:25,970 - com.easySelenium.generic.Log -INFO - TimeOut:1500
+2018-06-23 19:37:10,193 - com.easySelenium.generic.Log -INFO - TestCase - Test_Input_Form, started @ 2018-06-23 19:37:09.049  
+
+2018-06-23 19:37:14,227 - com.easySelenium.generic.Log -INFO - Description: This test case is to verify input text box.
+2018-06-23 19:37:33,649 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected :Hello actual Hello
+2018-06-23 19:37:39,242 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected: 20 actual: 20
+2018-06-23 19:37:45,267 - com.easySelenium.generic.Log -INFO - Passed: test_SimpleForm 
+This test case is to verify input text box
+2018-06-23 19:38:19,286 - com.easySelenium.generic.Log -INFO - test_SimpleForm is passed
+2018-06-23 19:38:23,772 - com.easySelenium.generic.Log -INFO - TestCase - Test_Input_Form, Completed @ 2018-06-23 19:38:20.542  
+
+2018-06-23 19:39:06,335 - com.easySelenium.generic.Log -INFO - TestCase - CheckBoxTest, started @ 2018-06-23 19:39:05.505  
+
+2018-06-23 19:39:08,238 - com.easySelenium.generic.Log -INFO - Description: This test case is to verify check box functionality.
+2018-06-23 19:39:16,397 - com.easySelenium.generic.Log -INFO - Result of verifySingleCheckBox is [true, true]
+2018-06-23 19:39:23,585 - com.easySelenium.generic.Log -INFO - Result of multi Check is [true, true, true, true, true, true, true, true, true, true, true, true]
+2018-06-23 19:39:28,806 - com.easySelenium.generic.Log -INFO - PASS:verifyCheckBoxFun test case has passed true
+2018-06-23 19:39:40,560 - com.easySelenium.generic.Log -INFO - verifyCheckBoxFun is passed
+2018-06-23 19:39:46,855 - com.easySelenium.generic.Log -INFO - TestCase - CheckBoxTest, Completed @ 2018-06-23 19:39:44.508  
+
+2018-06-23 19:41:12,567 - com.easySelenium.generic.Log -INFO - Destination report base directory doesn't found 
+2018-06-23 19:42:40,527 - com.easySelenium.generic.Log -INFO - initializing ExtentReport
+2018-06-23 19:42:40,617 - com.easySelenium.generic.Log -INFO - Browser:chrome
+2018-06-23 19:42:43,465 - com.easySelenium.generic.Log -INFO - executing scripts on Chrome Browser
+2018-06-23 19:42:46,514 - com.easySelenium.generic.Log -INFO - TimeOut:1500
+2018-06-23 19:42:46,641 - com.easySelenium.generic.Log -INFO - TestCase - Test_Input_Form, started @ 2018-06-23 19:42:46.641  
+
+2018-06-23 19:42:46,641 - com.easySelenium.generic.Log -INFO - Description: This test case is to verify input text box.
+2018-06-23 19:42:48,003 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected :Hello actual Hello
+2018-06-23 19:42:48,201 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected: 20 actual: 20
+2018-06-23 19:42:48,201 - com.easySelenium.generic.Log -INFO - Passed: test_SimpleForm 
+This test case is to verify input text box
+2018-06-23 19:42:48,585 - com.easySelenium.generic.Log -INFO - test_SimpleForm is passed
+2018-06-23 19:42:48,585 - com.easySelenium.generic.Log -INFO - TestCase - Test_Input_Form, Completed @ 2018-06-23 19:42:48.585  
+
+2018-06-23 19:42:48,846 - com.easySelenium.generic.Log -INFO - TestCase - CheckBoxTest, started @ 2018-06-23 19:42:48.846  
+
+2018-06-23 19:42:48,847 - com.easySelenium.generic.Log -INFO - Description: This test case is to verify check box functionality.
+2018-06-23 19:42:49,324 - com.easySelenium.generic.Log -INFO - Result of verifySingleCheckBox is [true, true]
+2018-06-23 19:42:49,877 - com.easySelenium.generic.Log -INFO - Result of multi Check is [true, true, true, true, true, true, true, true, true, true, true, true]
+2018-06-23 19:42:49,877 - com.easySelenium.generic.Log -INFO - PASS:verifyCheckBoxFun test case has passed true
+2018-06-23 19:42:50,204 - com.easySelenium.generic.Log -INFO - verifyCheckBoxFun is passed
+2018-06-23 19:42:50,204 - com.easySelenium.generic.Log -INFO - TestCase - CheckBoxTest, Completed @ 2018-06-23 19:42:50.204  
+
+2018-06-23 19:48:00,079 - com.easySelenium.generic.Log -INFO - initializing ExtentReport
+2018-06-23 19:48:00,172 - com.easySelenium.generic.Log -INFO - Browser:chrome
+2018-06-23 19:48:02,844 - com.easySelenium.generic.Log -INFO - executing scripts on Chrome Browser
+2018-06-23 19:48:05,120 - com.easySelenium.generic.Log -INFO - TimeOut:1500
+2018-06-23 19:48:05,235 - com.easySelenium.generic.Log -INFO - TestCase - Test_Input_Form, started @ 2018-06-23 19:48:05.235  
+
+2018-06-23 19:48:05,236 - com.easySelenium.generic.Log -INFO - Description: This test case is to verify input text box.
+2018-06-23 19:48:07,134 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected :Hello actual Hello
+2018-06-23 19:48:07,333 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected: 20 actual: 20
+2018-06-23 19:48:07,333 - com.easySelenium.generic.Log -INFO - Passed: test_SimpleForm 
+This test case is to verify input text box
+2018-06-23 19:48:07,783 - com.easySelenium.generic.Log -INFO - test_SimpleForm is passed
+2018-06-23 19:48:07,783 - com.easySelenium.generic.Log -INFO - TestCase - Test_Input_Form, Completed @ 2018-06-23 19:48:07.783  
+
+2018-06-23 19:48:08,024 - com.easySelenium.generic.Log -INFO - TestCase - CheckBoxTest, started @ 2018-06-23 19:48:08.024  
+
+2018-06-23 19:48:08,025 - com.easySelenium.generic.Log -INFO - Description: This test case is to verify check box functionality.
+2018-06-23 19:48:08,497 - com.easySelenium.generic.Log -INFO - Result of verifySingleCheckBox is [true, true]
+2018-06-23 19:48:09,057 - com.easySelenium.generic.Log -INFO - Result of multi Check is [true, true, true, true, true, true, true, true, true, true, true, true]
+2018-06-23 19:48:09,057 - com.easySelenium.generic.Log -INFO - PASS:verifyCheckBoxFun test case has passed true
+2018-06-23 19:48:09,384 - com.easySelenium.generic.Log -INFO - verifyCheckBoxFun is passed
+2018-06-23 19:48:09,385 - com.easySelenium.generic.Log -INFO - TestCase - CheckBoxTest, Completed @ 2018-06-23 19:48:09.385  
+
+2018-06-23 19:51:16,032 - com.easySelenium.generic.Log -INFO - initializing ExtentReport
+2018-06-23 19:51:16,126 - com.easySelenium.generic.Log -INFO - Browser:chrome
+2018-06-23 19:51:18,834 - com.easySelenium.generic.Log -INFO - executing scripts on Chrome Browser
+2018-06-23 19:51:21,110 - com.easySelenium.generic.Log -INFO - TimeOut:1500
+2018-06-23 19:51:21,234 - com.easySelenium.generic.Log -INFO - TestCase - Test_Input_Form, started @ 2018-06-23 19:51:21.234  
+
+2018-06-23 19:51:21,234 - com.easySelenium.generic.Log -INFO - Description: This test case is to verify input text box.
+2018-06-23 19:51:23,278 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected :Hello actual Hello
+2018-06-23 19:51:23,476 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected: 20 actual: 20
+2018-06-23 19:51:23,476 - com.easySelenium.generic.Log -INFO - Passed: test_SimpleForm 
+This test case is to verify input text box
+2018-06-23 19:51:23,892 - com.easySelenium.generic.Log -INFO - test_SimpleForm is passed
+2018-06-23 19:51:23,893 - com.easySelenium.generic.Log -INFO - TestCase - Test_Input_Form, Completed @ 2018-06-23 19:51:23.893  
+
+2018-06-23 19:51:24,154 - com.easySelenium.generic.Log -INFO - TestCase - CheckBoxTest, started @ 2018-06-23 19:51:24.154  
+
+2018-06-23 19:51:24,155 - com.easySelenium.generic.Log -INFO - Description: This test case is to verify check box functionality.
+2018-06-23 19:51:24,611 - com.easySelenium.generic.Log -INFO - Result of verifySingleCheckBox is [true, true]
+2018-06-23 19:51:25,194 - com.easySelenium.generic.Log -INFO - Result of multi Check is [true, true, true, true, true, true, true, true, true, true, true, true]
+2018-06-23 19:51:25,194 - com.easySelenium.generic.Log -INFO - PASS:verifyCheckBoxFun test case has passed true
+2018-06-23 19:51:25,519 - com.easySelenium.generic.Log -INFO - verifyCheckBoxFun is passed
+2018-06-23 19:51:25,519 - com.easySelenium.generic.Log -INFO - TestCase - CheckBoxTest, Completed @ 2018-06-23 19:51:25.519  
+
+2018-06-23 19:52:30,994 - com.easySelenium.generic.Log -INFO - initializing ExtentReport
+2018-06-23 19:52:31,087 - com.easySelenium.generic.Log -INFO - Browser:chrome
+2018-06-23 19:52:33,733 - com.easySelenium.generic.Log -INFO - executing scripts on Chrome Browser
+2018-06-23 19:52:35,999 - com.easySelenium.generic.Log -INFO - TimeOut:1500
+2018-06-23 19:52:36,121 - com.easySelenium.generic.Log -INFO - TestCase - Test_Input_Form, started @ 2018-06-23 19:52:36.121  
+
+2018-06-23 19:52:36,122 - com.easySelenium.generic.Log -INFO - Description: This test case is to verify input text box.
+2018-06-23 19:52:40,521 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected :Hello actual Hello
+2018-06-23 19:52:40,739 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected: 20 actual: 20
+2018-06-23 19:52:40,739 - com.easySelenium.generic.Log -INFO - Passed: test_SimpleForm 
+This test case is to verify input text box
+2018-06-23 19:52:41,162 - com.easySelenium.generic.Log -INFO - test_SimpleForm is passed
+2018-06-23 19:52:41,162 - com.easySelenium.generic.Log -INFO - TestCase - Test_Input_Form, Completed @ 2018-06-23 19:52:41.162  
+
+2018-06-23 19:53:14,873 - com.easySelenium.generic.Log -INFO - initializing ExtentReport
+2018-06-23 19:53:16,524 - com.easySelenium.generic.Log -INFO - Browser:chrome
+2018-06-23 19:53:23,591 - com.easySelenium.generic.Log -INFO - executing scripts on Chrome Browser
+2018-06-23 19:53:32,608 - com.easySelenium.generic.Log -INFO - TimeOut:1500
+2018-06-23 19:54:00,318 - com.easySelenium.generic.Log -INFO - TestCase - Test_Input_Form, started @ 2018-06-23 19:53:59.843  
+
+2018-06-23 19:54:03,381 - com.easySelenium.generic.Log -INFO - Description: This test case is to verify input text box.
+2018-06-23 19:54:26,289 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected :Hello actual Hello
+2018-06-23 19:54:30,695 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected: 20 actual: 20
+2018-06-23 19:54:35,247 - com.easySelenium.generic.Log -INFO - Passed: test_SimpleForm 
+This test case is to verify input text box
+2018-06-23 19:54:48,087 - com.easySelenium.generic.Log -INFO - test_SimpleForm is passed
+2018-06-23 19:54:53,631 - com.easySelenium.generic.Log -INFO - TestCase - Test_Input_Form, Completed @ 2018-06-23 19:54:51.171  
+
+2018-06-23 19:56:27,802 - com.easySelenium.generic.Log -INFO - initializing ExtentReport
+2018-06-23 19:56:27,893 - com.easySelenium.generic.Log -INFO - Browser:chrome
+2018-06-23 19:56:30,615 - com.easySelenium.generic.Log -INFO - executing scripts on Chrome Browser
+2018-06-23 19:56:33,291 - com.easySelenium.generic.Log -INFO - TimeOut:1500
+2018-06-23 19:56:33,408 - com.easySelenium.generic.Log -INFO - TestCase - Test_Input_Form, started @ 2018-06-23 19:56:33.408  
+
+2018-06-23 19:56:33,409 - com.easySelenium.generic.Log -INFO - Description: This test case is to verify input text box.
+2018-06-23 19:56:36,910 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected :Hello actual Hello
+2018-06-23 19:56:37,129 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected: 20 actual: 20
+2018-06-23 19:56:37,129 - com.easySelenium.generic.Log -INFO - Passed: test_SimpleForm 
+This test case is to verify input text box
+2018-06-23 19:56:37,548 - com.easySelenium.generic.Log -INFO - test_SimpleForm is passed
+2018-06-23 19:56:37,549 - com.easySelenium.generic.Log -INFO - TestCase - Test_Input_Form, Completed @ 2018-06-23 19:56:37.549  
+
+2018-06-23 19:56:37,891 - com.easySelenium.generic.Log -INFO - Logs file copied successfully 
+2018-06-23 19:57:57,005 - com.easySelenium.generic.Log -INFO - initializing ExtentReport
+2018-06-23 19:57:57,102 - com.easySelenium.generic.Log -INFO - Browser:chrome
+2018-06-23 19:57:59,837 - com.easySelenium.generic.Log -INFO - executing scripts on Chrome Browser
+2018-06-23 19:58:02,361 - com.easySelenium.generic.Log -INFO - TimeOut:1500
+2018-06-23 19:58:02,475 - com.easySelenium.generic.Log -INFO - TestCase - Test_Input_Form, started @ 2018-06-23 19:58:02.474  
+
+2018-06-23 19:58:02,475 - com.easySelenium.generic.Log -INFO - Description: This test case is to verify input text box.
+2018-06-23 19:58:04,403 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected :Hello actual Hello
+2018-06-23 19:58:04,624 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected: 20 actual: 20
+2018-06-23 19:58:04,625 - com.easySelenium.generic.Log -INFO - Passed: test_SimpleForm 
+This test case is to verify input text box
+2018-06-23 19:58:05,010 - com.easySelenium.generic.Log -INFO - test_SimpleForm is passed
+2018-06-23 19:58:05,011 - com.easySelenium.generic.Log -INFO - TestCase - Test_Input_Form, Completed @ 2018-06-23 19:58:05.011  
+
+2018-06-23 19:58:05,014 - com.easySelenium.generic.Log -INFO - TestCase - CheckBoxTest, started @ 2018-06-23 19:58:05.014  
+
+2018-06-23 19:58:05,014 - com.easySelenium.generic.Log -INFO - Description: This test case is to verify check box functionality.
+2018-06-23 19:58:05,552 - com.easySelenium.generic.Log -INFO - Result of verifySingleCheckBox is [true, true]
+2018-06-23 19:58:06,149 - com.easySelenium.generic.Log -INFO - Result of multi Check is [true, true, true, true, true, true, true, true, true, true, true, true]
+2018-06-23 19:58:06,149 - com.easySelenium.generic.Log -INFO - PASS:verifyCheckBoxFun test case has passed true
+2018-06-23 19:58:06,492 - com.easySelenium.generic.Log -INFO - verifyCheckBoxFun is passed
+2018-06-23 19:58:06,492 - com.easySelenium.generic.Log -INFO - TestCase - CheckBoxTest, Completed @ 2018-06-23 19:58:06.492  
+
+2018-06-23 19:58:06,795 - com.easySelenium.generic.Log -INFO - Logs file copied successfully 
+2018-06-23 19:58:06,796 - com.easySelenium.generic.Log -INFO - Custom Report copied successfully 
+2018-06-23 19:58:06,800 - com.easySelenium.generic.Log -INFO - Screenshots copied successfully 
+2018-06-23 23:11:02,449 - com.easySelenium.generic.Log -INFO - initializing ExtentReport
+2018-06-23 23:11:07,106 - com.easySelenium.generic.Log -INFO - Browser:chrome
+2018-06-23 23:11:18,701 - com.easySelenium.generic.Log -INFO - executing scripts on Chrome Browser
+2018-06-23 23:11:32,505 - com.easySelenium.generic.Log -INFO - TimeOut:1500
+2018-06-23 23:11:54,994 - com.easySelenium.generic.Log -INFO - TestCase - Test_Input_Form, started @ 2018-06-23 23:11:54.105  
+
+2018-06-23 23:11:56,363 - com.easySelenium.generic.Log -INFO - Description: This test case is to verify input text box.
+2018-06-23 23:12:11,393 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected :Hello actual Hello
+2018-06-23 23:12:15,851 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected: 20 actual: 20
+2018-06-23 23:12:19,600 - com.easySelenium.generic.Log -INFO - Passed: test_SimpleForm 
+This test case is to verify input text box
+2018-06-23 23:12:27,124 - com.easySelenium.generic.Log -INFO - test_SimpleForm is passed
+2018-06-23 23:12:29,970 - com.easySelenium.generic.Log -INFO - TestCase - Test_Input_Form, Completed @ 2018-06-23 23:12:28.250  
+
+2018-06-23 23:12:45,248 - com.easySelenium.generic.Log -INFO - TestCase - CheckBoxTest, started @ 2018-06-23 23:12:44.689  
+
+2018-06-23 23:12:47,016 - com.easySelenium.generic.Log -INFO - Description: This test case is to verify check box functionality.
+2018-06-23 23:12:54,122 - com.easySelenium.generic.Log -INFO - Result of verifySingleCheckBox is [true, true]
+2018-06-23 23:12:59,874 - com.easySelenium.generic.Log -INFO - Result of multi Check is [true, true, true, true, true, true, true, true, true, true, true, true]
+2018-06-23 23:13:03,769 - com.easySelenium.generic.Log -INFO - PASS:verifyCheckBoxFun test case has passed true
+2018-06-23 23:13:14,034 - com.easySelenium.generic.Log -INFO - verifyCheckBoxFun is passed
+2018-06-23 23:13:18,465 - com.easySelenium.generic.Log -INFO - TestCase - CheckBoxTest, Completed @ 2018-06-23 23:13:16.331  
+
+2018-06-23 23:14:14,303 - com.easySelenium.generic.Log -INFO - Logs file copied successfully 
+2018-06-23 23:14:26,742 - com.easySelenium.generic.Log -INFO - Custom Report copied successfully 
+2018-06-23 23:14:31,683 - com.easySelenium.generic.Log -INFO - Screenshots copied successfully 
+2018-06-23 23:14:50,722 - com.easySelenium.generic.Log -INFO - java.lang.NullPointerException
+2018-06-23 23:14:57,816 - com.easySelenium.generic.Log -INFO - Mail option is not enabled.
+2018-06-23 23:28:58,392 - com.easySelenium.generic.Log -INFO - initializing ExtentReport
+2018-06-23 23:28:59,542 - com.easySelenium.generic.Log -INFO - Browser:chrome
+2018-06-23 23:29:10,162 - com.easySelenium.generic.Log -INFO - executing scripts on Chrome Browser
+2018-06-23 23:29:14,595 - com.easySelenium.generic.Log -INFO - TimeOut:1500
+2018-06-23 23:29:22,553 - com.easySelenium.generic.Log -INFO - TestCase - Test_Input_Form, started @ 2018-06-23 23:29:21.613  
+
+2018-06-23 23:29:23,746 - com.easySelenium.generic.Log -INFO - Description: This test case is to verify input text box.
+2018-06-23 23:29:27,662 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected :Hello actual Hello
+2018-06-23 23:29:28,668 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected: 20 actual: 20
+2018-06-23 23:29:29,493 - com.easySelenium.generic.Log -INFO - Passed: test_SimpleForm 
+This test case is to verify input text box
+2018-06-23 23:29:32,704 - com.easySelenium.generic.Log -INFO - test_SimpleForm is passed
+2018-06-23 23:29:33,598 - com.easySelenium.generic.Log -INFO - TestCase - Test_Input_Form, Completed @ 2018-06-23 23:29:32.724  
+
+2018-06-23 23:29:36,163 - com.easySelenium.generic.Log -INFO - TestCase - CheckBoxTest, started @ 2018-06-23 23:29:35.099  
+
+2018-06-23 23:29:36,977 - com.easySelenium.generic.Log -INFO - Description: This test case is to verify check box functionality.
+2018-06-23 23:29:41,336 - com.easySelenium.generic.Log -INFO - Result of verifySingleCheckBox is [true, true]
+2018-06-23 23:29:45,956 - com.easySelenium.generic.Log -INFO - Result of multi Check is [true, true, true, true, true, true, true, true, true, true, true, true]
+2018-06-23 23:29:47,585 - com.easySelenium.generic.Log -INFO - PASS:verifyCheckBoxFun test case has passed true
+2018-06-23 23:29:52,000 - com.easySelenium.generic.Log -INFO - verifyCheckBoxFun is passed
+2018-06-23 23:29:54,316 - com.easySelenium.generic.Log -INFO - TestCase - CheckBoxTest, Completed @ 2018-06-23 23:29:53.218  
+
+2018-06-23 23:30:25,079 - com.easySelenium.generic.Log -INFO - Logs file copied successfully 
+2018-06-23 23:30:29,787 - com.easySelenium.generic.Log -INFO - Custom Report copied successfully 
+2018-06-23 23:30:33,114 - com.easySelenium.generic.Log -INFO - Screenshots copied successfully 
+2018-06-23 23:35:12,123 - com.easySelenium.generic.Log -INFO - initializing ExtentReport
+2018-06-23 23:35:12,214 - com.easySelenium.generic.Log -INFO - Browser:chrome
+2018-06-23 23:35:15,373 - com.easySelenium.generic.Log -INFO - executing scripts on Chrome Browser
+2018-06-23 23:35:17,847 - com.easySelenium.generic.Log -INFO - TimeOut:1500
+2018-06-23 23:35:17,964 - com.easySelenium.generic.Log -INFO - TestCase - Test_Input_Form, started @ 2018-06-23 23:35:17.964  
+
+2018-06-23 23:35:17,964 - com.easySelenium.generic.Log -INFO - Description: This test case is to verify input text box.
+2018-06-23 23:35:19,975 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected :Hello actual Hello
+2018-06-23 23:35:20,192 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected: 20 actual: 20
+2018-06-23 23:35:20,193 - com.easySelenium.generic.Log -INFO - Passed: test_SimpleForm 
+This test case is to verify input text box
+2018-06-23 23:35:20,583 - com.easySelenium.generic.Log -INFO - test_SimpleForm is passed
+2018-06-23 23:35:20,583 - com.easySelenium.generic.Log -INFO - TestCase - Test_Input_Form, Completed @ 2018-06-23 23:35:20.583  
+
+2018-06-23 23:35:20,587 - com.easySelenium.generic.Log -INFO - TestCase - CheckBoxTest, started @ 2018-06-23 23:35:20.586  
+
+2018-06-23 23:35:20,587 - com.easySelenium.generic.Log -INFO - Description: This test case is to verify check box functionality.
+2018-06-23 23:35:21,075 - com.easySelenium.generic.Log -INFO - Result of verifySingleCheckBox is [true, true]
+2018-06-23 23:35:21,671 - com.easySelenium.generic.Log -INFO - Result of multi Check is [true, true, true, true, true, true, true, true, true, true, true, true]
+2018-06-23 23:35:21,671 - com.easySelenium.generic.Log -INFO - PASS:verifyCheckBoxFun test case has passed true
+2018-06-23 23:35:21,989 - com.easySelenium.generic.Log -INFO - verifyCheckBoxFun is passed
+2018-06-23 23:35:21,989 - com.easySelenium.generic.Log -INFO - TestCase - CheckBoxTest, Completed @ 2018-06-23 23:35:21.989  
+
+2018-06-23 23:35:22,281 - com.easySelenium.generic.Log -INFO - Logs file copied successfully 
+2018-06-23 23:35:22,283 - com.easySelenium.generic.Log -INFO - Custom Report copied successfully 
+2018-06-23 23:35:22,287 - com.easySelenium.generic.Log -INFO - Screenshots copied successfully 
+2018-06-23 23:36:52,185 - com.easySelenium.generic.Log -INFO - initializing ExtentReport
+2018-06-23 23:36:52,289 - com.easySelenium.generic.Log -INFO - Browser:chrome
+2018-06-23 23:36:55,300 - com.easySelenium.generic.Log -INFO - executing scripts on Chrome Browser
+2018-06-23 23:36:57,632 - com.easySelenium.generic.Log -INFO - TimeOut:1500
+2018-06-23 23:36:57,779 - com.easySelenium.generic.Log -INFO - TestCase - Test_Input_Form, started @ 2018-06-23 23:36:57.779  
+
+2018-06-23 23:36:57,780 - com.easySelenium.generic.Log -INFO - Description: This test case is to verify input text box.
+2018-06-23 23:36:59,507 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected :Hello actual Hello
+2018-06-23 23:36:59,734 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected: 20 actual: 20
+2018-06-23 23:36:59,735 - com.easySelenium.generic.Log -INFO - Passed: test_SimpleForm 
+This test case is to verify input text box
+2018-06-23 23:37:00,137 - com.easySelenium.generic.Log -INFO - test_SimpleForm is passed
+2018-06-23 23:37:00,137 - com.easySelenium.generic.Log -INFO - TestCase - Test_Input_Form, Completed @ 2018-06-23 23:37:00.137  
+
+2018-06-23 23:37:00,143 - com.easySelenium.generic.Log -INFO - TestCase - CheckBoxTest, started @ 2018-06-23 23:37:00.143  
+
+2018-06-23 23:37:00,143 - com.easySelenium.generic.Log -INFO - Description: This test case is to verify check box functionality.
+2018-06-23 23:37:00,678 - com.easySelenium.generic.Log -INFO - Result of verifySingleCheckBox is [true, true]
+2018-06-23 23:37:01,259 - com.easySelenium.generic.Log -INFO - Result of multi Check is [true, true, true, true, true, true, true, true, true, true, true, true]
+2018-06-23 23:37:01,260 - com.easySelenium.generic.Log -INFO - PASS:verifyCheckBoxFun test case has passed true
+2018-06-23 23:37:01,583 - com.easySelenium.generic.Log -INFO - verifyCheckBoxFun is passed
+2018-06-23 23:37:01,584 - com.easySelenium.generic.Log -INFO - TestCase - CheckBoxTest, Completed @ 2018-06-23 23:37:01.583  
+
+2018-06-23 23:37:07,830 - com.easySelenium.generic.Log -INFO - Logs file copied successfully 
+2018-06-23 23:37:08,411 - com.easySelenium.generic.Log -INFO - Custom Report copied successfully 
+2018-06-23 23:37:09,422 - com.easySelenium.generic.Log -INFO - Screenshots copied successfully 
+2018-06-23 23:42:44,976 - com.easySelenium.generic.Log -INFO - initializing ExtentReport
+2018-06-23 23:42:45,070 - com.easySelenium.generic.Log -INFO - Browser:chrome
+2018-06-23 23:42:47,832 - com.easySelenium.generic.Log -INFO - executing scripts on Chrome Browser
+2018-06-23 23:42:50,252 - com.easySelenium.generic.Log -INFO - TimeOut:1500
+2018-06-23 23:42:50,375 - com.easySelenium.generic.Log -INFO - TestCase - Test_Input_Form, started @ 2018-06-23 23:42:50.375  
+
+2018-06-23 23:42:50,375 - com.easySelenium.generic.Log -INFO - Description: This test case is to verify input text box.
+2018-06-23 23:42:51,940 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected :Hello actual Hello
+2018-06-23 23:42:52,161 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected: 20 actual: 20
+2018-06-23 23:42:52,162 - com.easySelenium.generic.Log -INFO - Passed: test_SimpleForm 
+This test case is to verify input text box
+2018-06-23 23:42:52,561 - com.easySelenium.generic.Log -INFO - test_SimpleForm is passed
+2018-06-23 23:42:52,561 - com.easySelenium.generic.Log -INFO - TestCase - Test_Input_Form, Completed @ 2018-06-23 23:42:52.561  
+
+2018-06-23 23:42:52,564 - com.easySelenium.generic.Log -INFO - TestCase - CheckBoxTest, started @ 2018-06-23 23:42:52.564  
+
+2018-06-23 23:42:52,564 - com.easySelenium.generic.Log -INFO - Description: This test case is to verify check box functionality.
+2018-06-23 23:42:53,023 - com.easySelenium.generic.Log -INFO - Result of verifySingleCheckBox is [true, true]
+2018-06-23 23:42:53,619 - com.easySelenium.generic.Log -INFO - Result of multi Check is [true, true, true, true, true, true, true, true, true, true, true, true]
+2018-06-23 23:42:53,619 - com.easySelenium.generic.Log -INFO - PASS:verifyCheckBoxFun test case has passed true
+2018-06-23 23:42:53,970 - com.easySelenium.generic.Log -INFO - verifyCheckBoxFun is passed
+2018-06-23 23:42:53,971 - com.easySelenium.generic.Log -INFO - TestCase - CheckBoxTest, Completed @ 2018-06-23 23:42:53.971  
+
+2018-06-23 23:42:54,318 - com.easySelenium.generic.Log -INFO - Logs file copied successfully 
+2018-06-23 23:42:54,320 - com.easySelenium.generic.Log -INFO - Custom Report copied successfully 
+2018-06-23 23:42:54,323 - com.easySelenium.generic.Log -INFO - Screenshots copied successfully 
+2018-06-23 23:43:59,156 - com.easySelenium.generic.Log -INFO - initializing ExtentReport
+2018-06-23 23:43:59,256 - com.easySelenium.generic.Log -INFO - Browser:chrome
+2018-06-23 23:44:02,040 - com.easySelenium.generic.Log -INFO - executing scripts on Chrome Browser
+2018-06-23 23:44:04,412 - com.easySelenium.generic.Log -INFO - TimeOut:1500
+2018-06-23 23:44:04,552 - com.easySelenium.generic.Log -INFO - TestCase - Test_Input_Form, started @ 2018-06-23 23:44:04.552  
+
+2018-06-23 23:44:04,552 - com.easySelenium.generic.Log -INFO - Description: This test case is to verify input text box.
+2018-06-23 23:44:09,421 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected :Hello actual Hello
+2018-06-23 23:44:09,648 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected: 20 actual: 20
+2018-06-23 23:44:09,648 - com.easySelenium.generic.Log -INFO - Passed: test_SimpleForm 
+This test case is to verify input text box
+2018-06-23 23:44:10,047 - com.easySelenium.generic.Log -INFO - test_SimpleForm is passed
+2018-06-23 23:44:10,048 - com.easySelenium.generic.Log -INFO - TestCase - Test_Input_Form, Completed @ 2018-06-23 23:44:10.048  
+
+2018-06-23 23:44:10,053 - com.easySelenium.generic.Log -INFO - TestCase - CheckBoxTest, started @ 2018-06-23 23:44:10.052  
+
+2018-06-23 23:44:10,053 - com.easySelenium.generic.Log -INFO - Description: This test case is to verify check box functionality.
+2018-06-23 23:44:10,768 - com.easySelenium.generic.Log -INFO - Result of verifySingleCheckBox is [true, true]
+2018-06-23 23:44:11,364 - com.easySelenium.generic.Log -INFO - Result of multi Check is [true, true, true, true, true, true, true, true, true, true, true, true]
+2018-06-23 23:44:11,365 - com.easySelenium.generic.Log -INFO - PASS:verifyCheckBoxFun test case has passed true
+2018-06-23 23:44:11,709 - com.easySelenium.generic.Log -INFO - verifyCheckBoxFun is passed
+2018-06-23 23:44:11,709 - com.easySelenium.generic.Log -INFO - TestCase - CheckBoxTest, Completed @ 2018-06-23 23:44:11.709  
+
+2018-06-23 23:44:11,985 - com.easySelenium.generic.Log -INFO - Logs file copied successfully 
+2018-06-23 23:44:11,988 - com.easySelenium.generic.Log -INFO - Custom Report copied successfully 
+2018-06-23 23:44:11,989 - com.easySelenium.generic.Log -INFO - Summary Report copied successfully 
+2018-06-23 23:44:11,993 - com.easySelenium.generic.Log -INFO - Screenshots copied successfully 
+2018-06-23 23:58:43,437 - com.easySelenium.generic.Log -INFO - initializing ExtentReport
+2018-06-23 23:58:43,531 - com.easySelenium.generic.Log -INFO - Browser:chrome
+2018-06-23 23:58:46,559 - com.easySelenium.generic.Log -INFO - executing scripts on Chrome Browser
+2018-06-23 23:58:49,013 - com.easySelenium.generic.Log -INFO - TimeOut:1500
+2018-06-23 23:58:49,150 - com.easySelenium.generic.Log -INFO - TestCase - Test_Input_Form, started @ 2018-06-23 23:58:49.150  
+
+2018-06-23 23:58:49,150 - com.easySelenium.generic.Log -INFO - Description: This test case is to verify input text box.
+2018-06-23 23:58:52,307 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected :Hello actual Hello
+2018-06-23 23:58:52,507 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected: 20 actual: 20
+2018-06-23 23:58:52,507 - com.easySelenium.generic.Log -INFO - Passed: test_SimpleForm 
+This test case is to verify input text box
+2018-06-23 23:58:52,916 - com.easySelenium.generic.Log -INFO - test_SimpleForm is passed
+2018-06-23 23:58:52,916 - com.easySelenium.generic.Log -INFO - TestCase - Test_Input_Form, Completed @ 2018-06-23 23:58:52.916  
+
+2018-06-23 23:58:52,931 - com.easySelenium.generic.Log -INFO - TestCase - CheckBoxTest, started @ 2018-06-23 23:58:52.931  
+
+2018-06-23 23:58:52,931 - com.easySelenium.generic.Log -INFO - Description: This test case is to verify check box functionality.
+2018-06-23 23:58:53,433 - com.easySelenium.generic.Log -INFO - Result of verifySingleCheckBox is [true, true]
+2018-06-23 23:58:54,007 - com.easySelenium.generic.Log -INFO - Result of multi Check is [true, true, true, true, true, true, true, true, true, true, true, true]
+2018-06-23 23:58:54,007 - com.easySelenium.generic.Log -INFO - PASS:verifyCheckBoxFun test case has passed true
+2018-06-23 23:58:54,334 - com.easySelenium.generic.Log -INFO - verifyCheckBoxFun is passed
+2018-06-23 23:58:54,334 - com.easySelenium.generic.Log -INFO - TestCase - CheckBoxTest, Completed @ 2018-06-23 23:58:54.334  
+
+2018-06-23 23:58:59,397 - com.easySelenium.generic.Log -INFO - Logs file copied successfully 
+2018-06-23 23:58:59,617 - com.easySelenium.generic.Log -INFO - Custom Report copied successfully 
+2018-06-23 23:58:59,868 - com.easySelenium.generic.Log -INFO - Summary Report copied successfully 
+2018-06-23 23:59:00,523 - com.easySelenium.generic.Log -INFO - Screenshots copied successfully 
+2018-06-25 11:54:04,478 - com.easySelenium.generic.Log -INFO - initializing ExtentReport
+2018-06-25 11:54:04,585 - com.easySelenium.generic.Log -INFO - Browser:chrome
+2018-06-25 11:54:07,540 - com.easySelenium.generic.Log -INFO - executing scripts on Chrome Browser
+2018-06-25 11:54:12,863 - com.easySelenium.generic.Log -INFO - TimeOut:1500
+2018-06-25 11:54:13,000 - com.easySelenium.generic.Log -INFO - TestCase - Test_Input_Form, started @ 2018-06-25 11:54:13.000  
+
+2018-06-25 11:54:13,000 - com.easySelenium.generic.Log -INFO - Description: This test case is to verify input text box.
+2018-06-25 11:54:16,417 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected :Hello actual Hello
+2018-06-25 11:54:16,648 - com.easySelenium.generic.Log -INFO - Expected result matched with actual result: expected: 20 actual: 20
+2018-06-25 11:54:16,649 - com.easySelenium.generic.Log -INFO - Passed: test_SimpleForm 
+This test case is to verify input text box
+2018-06-25 11:54:17,061 - com.easySelenium.generic.Log -INFO - test_SimpleForm is passed
+2018-06-25 11:54:17,061 - com.easySelenium.generic.Log -INFO - TestCase - Test_Input_Form, Completed @ 2018-06-25 11:54:17.061  
+
+2018-06-25 11:54:17,065 - com.easySelenium.generic.Log -INFO - TestCase - CheckBoxTest, started @ 2018-06-25 11:54:17.065  
+
+2018-06-25 11:54:17,065 - com.easySelenium.generic.Log -INFO - Description: This test case is to verify check box functionality.
+2018-06-25 11:54:17,942 - com.easySelenium.generic.Log -INFO - Result of verifySingleCheckBox is [true, true]
+2018-06-25 11:54:18,533 - com.easySelenium.generic.Log -INFO - Result of multi Check is [true, true, true, true, true, true, true, true, true, true, true, true]
+2018-06-25 11:54:18,534 - com.easySelenium.generic.Log -INFO - PASS:verifyCheckBoxFun test case has passed true
+2018-06-25 11:54:18,875 - com.easySelenium.generic.Log -INFO - verifyCheckBoxFun is passed
+2018-06-25 11:54:18,875 - com.easySelenium.generic.Log -INFO - TestCase - CheckBoxTest, Completed @ 2018-06-25 11:54:18.875  
+
