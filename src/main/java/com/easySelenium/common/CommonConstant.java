@@ -24,6 +24,7 @@ public interface CommonConstant {
 	public static final String EXTEND_REPORT_HTML_FILE="STMExtentReport.html";
 	
 	public static  final String CONFIG_FILE="config.properties";
+	public static final String EMAIL_CONFIG_FILE= "mail.properties";
 	
 	public static  final String CHROME_FILE="chromedriver.exe";
 	public static  final String GECKO_FILE="geckodriver.exe";
@@ -47,14 +48,14 @@ public interface CommonConstant {
 	public final static String MAIL_SSL = "TLS v1-1.2";
 	public final static String MAIL_USER_NAME = "seleniumeasys@gmail.com"; // "mail.username";
 	public final static String MAIL_PASSWORD = "selenium@easy"; // "mail.password";
-	public final static String GIT_PASSWORD = "selenium@easy2018"; 
+	
 	public final static String MAIL_FROM = "mail.from";
 	public final static String MAIL_TO = "mail.to";
 	public final static String MAIL_CC = "mail.cc";
 	public final static String MAIL_SUBJECT = "mail.subject";
 	public final static String MAIL_CONTENT = "mail.content";
 	public final static String MAIL_ENABLE = "mail.send";
-	public final static String MAIL_TO_EMAIL_ID="avinashdp@gmail.com";
-	public final static String EMAIL_CC_EMAIL_ID = "ssamaji22@gmail.com";
+	public final static String MAIL_TO_EMAIL_ID="swatisamaji22@gmail.com";
+	public final static String EMAIL_CC_EMAIL_ID = "swatisamaji22@gmail.com";
 
 }
